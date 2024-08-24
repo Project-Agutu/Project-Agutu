@@ -1,0 +1,2 @@
+-  Hi, I’m Project CC
+- 🌱 I’m currently learning Java and MC Modding
